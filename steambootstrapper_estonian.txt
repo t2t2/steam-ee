@@ -1,9 +1,9 @@
-﻿"Language"	"xxxxxxxxxxxxxxxxxxxx"
+﻿"Language"	"Estonian"
 "Tokens"
 {
-"SteamBootstrapper_UpdatingSteam"	"xxxxxxxxxxxxxxxxxxxx"
+"SteamBootstrapper_UpdatingSteam"	"Uuendan %appname%-t..."
 "[english]SteamBootstrapper_UpdatingSteam"	"Updating %appname%..."
-"SteamBootstrapper_ElevationPrompt"	"xxxxxxxxxxxxxxxxxxxx"
+"SteamBootstrapper_ElevationPrompt"	"%appname% peab enne avamist ennast uuendama."
 "[english]SteamBootstrapper_ElevationPrompt"	"%appname% needs to self-update before launching."
 "SteamBootstrapper_ReadOnlyInstallOSX"	"xxxxxxxxxxxxxxxxxxxx"
 "[english]SteamBootstrapper_ReadOnlyInstallOSX"	"%appname% is unable to write to its folder. Make sure you're not trying to run from the disk image."
