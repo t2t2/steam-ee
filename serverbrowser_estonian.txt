@@ -173,7 +173,7 @@
 "[english]ServerBrowser_NoFriendsServers"	"None of your friends are currently playing a game."
 "ServerBrowser_NoInternetGames"	"Ei ole ühtegi interneti mängu nähtaval, mis vastaksid teie valitud otsingule"
 "[english]ServerBrowser_NoInternetGames"	"There are no internet games visible that pass your filter settings."
-"ServerBrowser_NoInternetGamesResponded"	"xxxxxxxxxxxxxxxxxxxx"
+"ServerBrowser_NoInternetGamesResponded"	"Mitte üksi interneti mäng ei vastanud sinu päringule."
 "[english]ServerBrowser_NoInternetGamesResponded"	"No internet games responded to the query."
 "ServerBrowser_MasterServerNotResponsive"	"xxxxxxxxxxxxxxxxxxxx"
 "[english]ServerBrowser_MasterServerNotResponsive"	"Could not contact master game server to retrieve server list."
