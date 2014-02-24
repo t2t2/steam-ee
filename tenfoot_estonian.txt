@@ -316,7 +316,7 @@
 "[english]SettingsFriends_PlaySound"	"Play a sound"
 "SettingsFriends_DisplayNotification"	"Kuva teadaanne"
 "[english]SettingsFriends_DisplayNotification"	"Display a notification"
-"SettingsFriends_SetPersonaName"	"xxxxxxxxxxxxxxxxxxxx"
+"SettingsFriends_SetPersonaName"	"SEA PROFIILINIMI"
 "[english]SettingsFriends_SetPersonaName"	"SET PROFILE NAME"
 "SettingsDisplay_Intro_old"	"Suur Ekraan saab töötada kas 720p või 1080p režiimis. Vali allpool videoseade."
 "[english]SettingsDisplay_Intro_old"	"Big Picture mode can run in 720p or 1080p. Choose a video setting below."
