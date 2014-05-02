@@ -37,7 +37,7 @@
 "[english]Overlay_Taskbar_WebSite"	"Web Site"
 "Overlay_Taskbar_Forums"	"Arutelud"
 "[english]Overlay_Taskbar_Forums"	"Discussions"
-"Overlay_Taskbar_Close"	"Kliki siia, et naasta mängu"
+"Overlay_Taskbar_Close"	"Mängu naasmiseks vajuta siia"
 "[english]Overlay_Taskbar_Close"	"Click here to return to the game"
 "Overlay_Taskbar_WebBrowser"	"Veebilehitseja"
 "[english]Overlay_Taskbar_WebBrowser"	"Web Browser"
