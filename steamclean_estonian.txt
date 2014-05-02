@@ -1,14 +1,14 @@
-﻿"Language" "Estonian"
+"Language" "Estonian"
 
 "Tokens"
 
 {
 
-"SteamClean_Title"	"Kustutad Steami?"
+"SteamClean_Title"	"Kustutada Steam?"
 
 "[english]SteamClean_Title"	"Deleting Steam?"
 
-"SteamClean_Message"	"Steamil on kaustas %@ endiselt mängufaile. Kas soovid, et Steam kustutaks need?"
+"SteamClean_Message"	"Steamil on endiselt mängusisu kaustas %@. Kas soovid, et Steam kustutaks need nüüd?"
 
 "[english]SteamClean_Message"	"Steamstill has game content stored in %@.  Do you want Steam to delete them now?"
 
@@ -20,7 +20,7 @@
 
 "[english]SteamClean_Keep"	"Keep files"
 
-"SteamClean_ShowInFinder"	"Näita Finderis"
+"SteamClean_ShowInFinder"	"Näita Finder'is"
 
 "[english]SteamClean_ShowInFinder"	"Show in Finder"
 
