@@ -1033,5 +1033,7 @@
 "[english]friends_newturn_info"	"1 new turn waiting for you"
 "friends_newturns_info"	"%turns% uut käiku on ootel"
 "[english]friends_newturns_info"	"%turns% new turns waiting for you"
+"Friends_BlockCommunicationResultUnblock"	"%username%'i blokeerimine on tühistatud!\n\nOma blokeeritud kasutajate nimekirja saad vaadata Steami kogukonnas."
+"[english]Friends_BlockCommunicationResultUnblock"	"%username% has been unblocked!\n\nYou can visit your Blocked List in the Steam Community."
 }
 }
