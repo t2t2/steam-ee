@@ -269,7 +269,7 @@
 "[english]vgui_TimeLeftMinutesSeconds"	"%minutes% minutes %seconds% seconds"
 "vgui_TimeLeftMinutesSecond"	"%minutes% minutit %seconds% sekund"
 "[english]vgui_TimeLeftMinutesSecond"	"%minutes% minutes %seconds% second"
-"vgui_TimeLeftMinuteSeconds"	"%minutes%" minut %seconds% sekundit"
+"vgui_TimeLeftMinuteSeconds"	"%minutes% minut %seconds% sekundit"
 "[english]vgui_TimeLeftMinuteSeconds"	"%minutes% minute %seconds% seconds"
 "vgui_TimeLeftMinuteSecond"	"%minutes% minut %seconds% sekund"
 "[english]vgui_TimeLeftMinuteSecond"	"%minutes% minute %seconds% second"
