@@ -87,7 +87,7 @@
 "[english]LoginIPTNotConfirmed"	"IPT could not be verified. This account\nmay not be used on this computer."
 "LoginIPTConnectFailed"	"Steami serveritega ei saanud ühendust.\nPalun proovi hiljem uuesti."
 "[english]LoginIPTConnectFailed"	"Cannot contact the Steam servers.\nPlease try again later."
-"app_task_bigpicture"	"Täisekraan"
+"app_task_bigpicture"	"Suur pilt"
 "[english]app_task_bigpicture"	"Big Picture"
 "app_task_friend_activity"	"Sõbra aktiivsus"
 "[english]app_task_friend_activity"	"Friend Activity"
