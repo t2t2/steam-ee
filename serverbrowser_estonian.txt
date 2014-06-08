@@ -29,7 +29,7 @@
 "[english]ServerBrowser_LessThan50"	"< 50"
 "ServerBrowser_LessThan100"	"< 100"
 "[english]ServerBrowser_LessThan100"	"< 100"
-"ServerBrowser_LessThan150"	< 150"
+"ServerBrowser_LessThan150"	"< 150"
 "[english]ServerBrowser_LessThan150"	"< 150"
 "ServerBrowser_LessThan250"	"< 250"
 "[english]ServerBrowser_LessThan250"	"< 250"
