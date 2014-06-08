@@ -67,7 +67,7 @@
 "[english]ServerBrowser_PasswordLabel"	"Password"
 "ServerBrowser_Cancel"	"Loobu"
 "[english]ServerBrowser_Cancel"	"Cancel"
-"ServerBrowser_JoinGame"	"Liitu mänguga"
+"ServerBrowser_JoinGame"	"Liitu"
 "[english]ServerBrowser_JoinGame"	"Join Game"
 "ServerBrowser_Close"	"Sulge"
 "[english]ServerBrowser_Close"	"Close"
