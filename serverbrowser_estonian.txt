@@ -71,7 +71,7 @@
 "[english]ServerBrowser_JoinGame"	"Join Game"
 "ServerBrowser_Close"	"Sulge"
 "[english]ServerBrowser_Close"	"Close"
-"ServerBrowser_AutoRetry"	"Ürita automaatselt uuesti"
+"ServerBrowser_AutoRetry"	"Automaatika"
 "[english]ServerBrowser_AutoRetry"	"Auto-Retry"
 "ServerBrowser_AlertMeWhenSlotOpens"	"Teavita mind, kui serveris vabaneb koht."
 "[english]ServerBrowser_AlertMeWhenSlotOpens"	"Alert me when a player slot is available on the server."
